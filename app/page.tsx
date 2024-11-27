@@ -152,7 +152,6 @@ function Home() {
             />
             <textarea
               placeholder="Your Message"
-              rows="4"
               className="p-4 border rounded focus:outline-none"
             ></textarea>
             <button

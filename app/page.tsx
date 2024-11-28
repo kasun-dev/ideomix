@@ -29,7 +29,7 @@ function Home() {
           {/* Logo Section */}
           <div className="flex items-center">
             <img
-              src="/logo.png" // Path to the logo in the public folder
+              src="./logo.png" // Path to the logo in the public folder
               alt="IdeoMix Logo"
               className="h-[100px] w-auto mr-4" // Adjust size and spacing
             />
